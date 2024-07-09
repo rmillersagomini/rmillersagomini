@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rmillersagomini
 - 👀 I’m interested in making great looking 3d games
-- 🌱 I’m currently learning python and blender
-- 💞️ I’m looking to collaborate on unity games
-- 📫 How to reach me, rmiller@sagomini.com
+- 🌱 I’m currently learning python
+- 📫 How to reach me, rmiller@sagomini.com / ryanmiller.ca
 - 😄 Pronouns: he/him or they/them
 - ⚡ Fun fact: before i worked in games, i worked in games
 
